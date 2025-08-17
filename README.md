@@ -49,8 +49,6 @@ This project leverages **Machine Learning, AI, and Power BI** to forecast sales,
 ### Customer Satisfaction Dashboard  
 ![Customer Dashboard](PowerBI/Customer_Satisfaction.jpg)  
 
-*(Replace with actual screenshot paths from your repo)*  
-
 ---
 
 ## 🚀 How to Run  
@@ -92,5 +90,3 @@ LSTM	✅ Lowest	✅ Best	✅ Highest
 
 -> Try FBProphet / ensemble models for improved accuracy
    
-   git clone https://github.com/NagullaSivaNandini/AI-Driven-Sales-Forecasting-Insights.git
-   cd AI-Driven-Sales-Forecasting-Insights
